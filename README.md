@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Shaylan7/shaylan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a final project in the transportation industry designed to reduce waste. This will be using the PERN stack. 
+- 🌱 I’m currently learning and relearning JavaScript fundamentals, testing and deploying 
+- 👯 I’m looking to collaborate on any Hackothons! 
+- 🤔 I’m looking for help with networking 
+
+
+<a href="https://github.com/shaylan7/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shaylan7&layout=compact&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/shaylan7/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaylan7&layout=compact" />
+</a>
